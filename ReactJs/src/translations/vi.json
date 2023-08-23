@@ -1,0 +1,62 @@
+{
+    "home-header": {
+        "specialist-information": "THÔNG TIN  CHUYÊN KHOA",
+        "media":"TRUYỀN THÔNG",
+        "news":" TIN TỨC",
+        "health-checkup-package":"GÓI KHÁM SỨC KHỎE",
+        "health-facilities":"CƠ SỞ Y TẾ",
+        "our-socials":"Mạng xã hội",
+        "support":"HỖ TRỢ",
+        "medical-foundation":" NỀN TẢNG Y TẾ",
+        "comprehensive":"CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+        "examination":"Khám",
+        "specialist":"Chuyên khoa",
+        "remote":"Từ Xa",
+        "general":"Tổng Quát",
+        "analysis":"Xét Nghiệm",
+        "medicine":"Y Học",
+        "health":"Sức Khỏe",
+        "spirit":"Tinh Thần",
+        "dentistry":"Nha Khoa",
+        "package":"Gói",
+        "surgery":"Phẫu Thuật",
+        "product":" Sản Phẩm",
+        "checkup":"Bài Test",
+        "near":"gần bạn",
+        "welcome":"Xin chào"
+    },
+    "menu": {
+        "admin": {
+        "manage-user": "Quản lý người dùng ",
+        "manage-doctor": "Quản lý bác sĩ ",
+        "manage-admin": "Quản lý admin",
+        "crud": "CRUD User",
+        "crud-redux": "CRUD Redux",
+        "clinic": "Phòng khám",
+        "manage-clinic": "Quản lý phòng khám",
+        "spectialty": "Chuyên Khoa",
+        "manage-spectialty": "Quản lý Chuyên khoa",
+        "handbook": "Cẩm nang",
+        "manage-handbook": "Quản lý cẩm nang"
+        }
+    },
+    "manage-user": {
+        "add":"Thêm mới người dùng ",
+        "email":"Email",
+        "password":"Mật khẩu",
+        "first-name": "Tên",
+        "last-name": "Họ",
+        "phone-number": "Số điện thoại",
+        "address": " Địa chỉ",
+        "gender": "Giới tính",
+        "position": "Chức danh",
+        "role": "Vai trò",
+        "save": "Lưu User",
+        "edit":"Lưu thay đổi",
+        "image": "Tải ảnh"
+    },
+    "homepage":{
+        "outstanding-doctor": "Bác sĩ nổi bật tuần qua",
+        "more-infor": " Xem Them"
+    }
+}

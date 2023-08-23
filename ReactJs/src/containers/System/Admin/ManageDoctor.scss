@@ -1,0 +1,30 @@
+.manage-doctor-container {
+    padding: 5px;
+
+    .tiitle-manage-doctor {
+        p {
+            text-align: center;
+            margin: 15px 0px;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 20px;
+        }
+    }
+
+    .button-doctor {
+        margin-top: 20px;
+        width: 200px;
+        height: 30px;
+        background-color: #5555;
+        border: 1px solid black;
+        border-radius: 5px ;
+
+    }
+        .save-content-markdown {
+            font-size: 15px;
+            color: black;
+            p{
+            text-align: center;     
+            }
+        }
+}

@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,500;1,700&display=swap');
+
+
+.table-content {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+.fillter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+    opacity: .7;
+    background-color: #ffff;
+}
+
+table {
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    top: 500px;
+    transform: translate(-50%, -50%);
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 12px 12px 0 0;
+    overflow: hidden;
+    box-shadow: 0 2px 12px #ffe4f2;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+th,
+td {
+    padding: 10px 15px;
+}
+
+th {
+    background: #9f45b0;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+td {
+    font-family: 'Open Sans', sans-serif;
+}
+
+tr:nth-child(odd) {
+    background-color: #cccccc;
+}
+
+tr:hover {
+    background: #ab20fd;
+    color: white;
+}
+
+.button-type {
+    background-color: #fff;
+    border: 1px solid #d5d9d9;
+    border-radius: 8px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember", sans-serif;
+    font-size: 13px;
+    line-height: 29px;
+    padding: 0 10px 0 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    width: auto;
+}
+
+.button-type:hover {
+    background-color: #ab20fd;
+    color: white;
+}
+
+.button-.button-type {
+    border-color: #008296;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    outline: 0;
+}
+
+.button-update {
+    position: absolute;
+    z-index: 2;
+}
+
+.button-update {
+    display: block;
+    left: 0px;
+    top: 150px;
+}
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    line-height: inherit;
+    font-size: 35px;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.modal .modal-dialog .modal-content .modal-header {
+    padding: 0 10px;
+    height: 35px;
+    color: white;
+    background-color: #9f45b0;
+}    
+

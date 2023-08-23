@@ -1,0 +1,62 @@
+{
+    "home-header": {
+        "specialist-information": "SPECIALIST INFORMATION",
+        "media":"MEDIA",
+        "news":"NEWS",
+        "health-checkup-package":"HEALTH CHECK PACKAGE",
+        "health-facilities":"HEALTH FACILITIES",
+        "our-socials":"OUR SOCIALS",
+        "support":"SUPPORT",
+        "medical-foundation":"MEDICAL FOUNDATION",
+        "comprehensive":"COMPREHENSIVE HEALTH CARE",
+        "specialist":"Specialist",
+        "examination":"Examination",
+        "remote":"Remote",
+        "general":"General",
+        "analysis":"Analysis",
+        "medicine":"Medicine",
+        "health":"Health",
+        "spirit":"Spirit",
+        "dentistry":"Dentistry",
+        "package":"Package",
+        "surgery":"Surgery",
+        "product":"Product",
+        "checkup":"Checkup",
+        "near":"Near",
+        "welcome":"Welcome"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Manage User",
+            "manage-doctor": "Manage Doctor",
+            "manage-admin": "Manage Admin",
+            "crud": "CRUD User",
+            "crud-redux": "CRUD Redux",
+            "clinic": "Clinic",
+            "manage-clinic": "Manage Clinic",
+            "spectialty": "Specialist",
+            "manage-spectialty": "Manage Specialist",
+            "handbook": "Hand Book",
+            "manage-handbook": "Manage Hand Book"
+            }
+    },
+    "manage-user": {
+        "add":"Add New User",
+        "email":"Email",
+        "password":"Password",
+        "first-name": "First Name",
+        "last-name": "Last Name",
+        "phone-number": "Phone Number",
+        "address": " Adderss",
+        "gender": "Gender",
+        "position": "Position",
+        "role": "Role",
+        "save": "Save User",
+        "edit": "Edit",
+        "image": "Image"
+    },
+    "homepage":{
+        "outstanding-doctor": "Last week's featured doctor",
+        "more-infor": "More Infor"
+    }
+}
